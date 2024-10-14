@@ -1,0 +1,7 @@
+
+> builder@0.1.0 lint D:\Akshay\Arpit\typebot.io\apps\builder
+> dotenv -e ./.env -e ../../.env -- next lint
+
+- event [next-runtime-env] read environment variables prefixed with 'NEXT_PUBLIC_' from process.env.
+- ready [next-runtime-env] wrote browser runtime environment variables to 'D:\Akshay\Arpit\typebot.io\apps\builder/public/__ENV.js'.
+✔ No ESLint warnings or errors

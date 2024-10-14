@@ -1,0 +1,19 @@
+
+> builder@0.1.0 format:check D:\Akshay\Arpit\typebot.io\apps\builder
+> prettier --check ./src --ignore-path ../../.prettierignore
+
+Checking formatting...
+[warn] src\assets\styles\custom.css
+[warn] src\assets\styles\md.css
+[warn] src\assets\styles\plate.css
+[warn] src\assets\styles\resultsTable.css
+[warn] src\assets\styles\routerProgressBar.css
+[warn] src\components\AlertInfo.tsx
+[warn] src\components\ColorPicker.tsx
+[warn] src\components\ConfirmModal.tsx
+[warn] src\components\ContextMenu.tsx
+[warn] src\components\CopyButton.tsx
+[warn] src\components\DropdownList.tsx
+[warn] src\components\EditableEmojiOrImageIcon.tsx
+[warn] src\components\EmojiOrImageIcon.tsx
+[warn] src\components\GoogleLogo.tsx
